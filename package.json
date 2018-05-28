@@ -1,0 +1,28 @@
+{
+  "name": "itvdn",
+  "version": "1.0.0",
+  "description": "This ITVDN students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viacheslav94/itVDN.git"
+  },
+  "author": "Viacheslav Kryvoviaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viacheslav94/itVDN/issues"
+  },
+  "homepage": "https://github.com/Viacheslav94/itVDN#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  }
+}
